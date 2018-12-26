@@ -21,17 +21,17 @@ Consulta e vende Bitcoins (BTC) no instante em que é recebido um depósito na e
 
 ## Passos para rodar o projeto
 
-### 1. Clone o projeto.
+- Clone o projeto.
 
-### 2. Abra o Eclipse.
+- Abra o Eclipse.
 
-### 3. Clique com o botão invertido do mouse dentro do `Package Explorer` > `Import`.
+- Clique com o botão invertido do mouse dentro do `Package Explorer` > `Import`.
 
-### 4. Selecione a opção `General` > `Existing Projects into Workspace`.
+- Selecione a opção `General` > `Existing Projects into Workspace`.
 
-### 5. Procure e selecione o diretório raiz do projeto, depois `Finish`.
+- Procure e selecione o diretório raiz do projeto, depois `Finish`.
 
-### 6. Altere, utilize sua `API ID` e `API Secret` e rode o projeto.
+- Altere, utilize sua `API ID` e `API Secret` e rode o projeto.
 
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/furtado-a45bf.appspot.com/o/GitHub%2Fnegociecoins-quicksale%2Fmain.jpg?alt=media&token=41508654-8171-483b-8647-32c4b77af872" alt="negociecoins-quicksale" title="negociecoins-quicksale">
