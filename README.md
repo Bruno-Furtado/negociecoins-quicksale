@@ -1,6 +1,6 @@
 # NegocieCoins - QuickSale
 
-Consulta e vende Bitcoins (BTC) no instante em que é recebido um depósito na exchange [NegocieCoins](https://www.negociecoins.com.br/).
+Consulta e vende Bitcoins (BTC) no instante em que é recebido um depósito na [NegocieCoins](https://www.negociecoins.com.br/).
 
 [![Java][java-badge]][java-url]
 [![Eclipse][eclipse-badge]][eclipse-url]
