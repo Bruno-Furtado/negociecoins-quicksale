@@ -33,6 +33,7 @@ Consulta e vende Bitcoins (BTC) no instante em que é recebido um depósito na e
 
 - Altere, utilize sua `API ID` e `API Secret` e rode o projeto.
 
+<br/>
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/furtado-a45bf.appspot.com/o/GitHub%2Fnegociecoins-quicksale%2Fmain.jpg?alt=media&token=41508654-8171-483b-8647-32c4b77af872" alt="negociecoins-quicksale" title="negociecoins-quicksale">
 </p>
