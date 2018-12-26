@@ -38,6 +38,8 @@ Consulta e vende Bitcoins (BTC) no instante em que é recebido um depósito na e
   <img src="https://firebasestorage.googleapis.com/v0/b/furtado-a45bf.appspot.com/o/GitHub%2Fnegociecoins-quicksale%2Fmain.jpg?alt=media&token=41508654-8171-483b-8647-32c4b77af872" alt="negociecoins-quicksale" title="negociecoins-quicksale">
 </p>
 
+*OBS.:* As chaves presentes no código-fonte foram utilizadas apenas para testes e já foram excluídas. É necessário que sejam geradas novas chaves em sua conta na NegocieCoins para que a autenticação seja liberada.*
+
 
 ## Change-log
 
