@@ -53,5 +53,5 @@ This code is distributed under the terms and conditions of the [MIT](https://git
 
 [java-badge]: https://img.shields.io/badge/Java-8-red.svg?style=flat
 [java-url]: https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
-[eclipse-badge]: https://img.shields.io/badge/Eclipse-2018_12-purple.svg?style=flat
+[eclipse-badge]: https://img.shields.io/badge/Eclipse-201812-purple.svg?style=flat
 [eclipse-url]: https://www.eclipse.org/downloads/
